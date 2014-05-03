@@ -8,7 +8,9 @@ pydante
  - Request access to DANTE from www.webdante.com
  - Put the xml database in the root directory and make sure it is named "dante-v1.0.xml"
  - Install the Natural Language Toolkit (NLTK): http://www.nltk.org/ OR pip install nltk
- - Install pywsd: https://github.com/alvations/pywsd (you may have to make some slight changes to make it function in Python 2.7)
+ - Install pywsd: https://github.com/alvations/pywsd
+ - Put the pywsd folder in the root directory
+ - (you may have to make some slight changes to pywsd to make it function in Python 2.7)
 
 ####In the interest of transparency
 
