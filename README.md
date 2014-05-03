@@ -10,7 +10,7 @@ pydante
  - Install the Natural Language Toolkit (NLTK): http://www.nltk.org/ OR pip install nltk
  - Install pywsd: https://github.com/alvations/pywsd (you may have to make some slight changes to make it function in Python 2.7)
 
-##In the interest of transparency
+#In the interest of transparency
 
 The lookup file for linking the DANTE answers with WordNet is dante-wordnet-lookup.csv
 It can be deleted if you want to set the definitions yourself.
