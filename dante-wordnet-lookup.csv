@@ -1,0 +1,371 @@
+companion%1:18:00::,a person who accompanies you on a journey or in a particular activity,True
+bleary%5:00:00:indistinct:00,muddled with tiredness,True
+ready%5:00:01:available:00,"(of behaviour) needing little provocation and quickly or regularly done, produced etc",False
+fit%1:26:00::,a bout or episode ,True
+coughing%1:26:00::,the act of coughing,True
+clear%3:00:02::,clear eyes are bright and healthy,False
+eye%1:08:00::,part of the body that you see with,True
+clear%5:00:00:discerning:00,clear eyes are bright and healthy,False
+cold%5:00:00:intense:00,"of an expression or reaction, not friendly or sympathetic",True
+cross%2:38:00::,go from one side of an obstacle or defined area to the other,True
+light%1:10:00::,"to provide light to or for, esp so that people can see ",False
+truck%1:06:00::,a large road vehicle used for transporting goods,True
+driver%1:18:00::,sb who drives a particular vehicle,True
+old%3:00:01::,"of long standing, long-established",True
+truck_driver%1:18:00::,a large road vehicle used for transporting goods,False
+bar%1:06:04::,to obstruct,False
+drink%1:13:04::,an alcoholic beverage,True
+pass%2:42:00::,the lapse of time,True
+job%1:04:00::,the outcome of a task undertaken,False
+take%2:40:05::,to react or respond to,False
+first_name%1:10:00::,the form by which sb or sth is known or addressed,True
+do%2:36:01::,to perform unspecified or unknown actions,True
+know%2:31:01::,"to have reliable information or understanding about sth, through experience, observation, inquiry, or being told",True
+get_along_with%2:41:00::,to extract,False
+radio%1:06:01::,a device for picking up sound broadcasts,True
+address%1:10:02::,a formal speech,False
+time%1:28:00::,an amount of time that is available for doing something or is occupied by doing something,True
+movement%1:04:00::,one of the main divisions of a piece of music,False
+break%1:04:02::,"an interruption, gap in sth",False
+notice%2:39:00::,to become aware of sb/sth through one or more of the senses,True
+stay%2:38:00::,to remain in a place,True
+conversation%1:10:00::,a talk between two or more people,True
+alive%3:00:01::,living,True
+mind%2:32:00::,to look after,False
+good%3:00:01::,"skilful, accomplished",False
+separate%3:00:00::,"forming a single unit, not together with sth else",True
+maintenance%1:21:01::,the process of keeping something in good condition,False
+do%2:41:04::,to perform unspecified or unknown actions,True
+home%1:15:04::,a residential property,True
+work%1:06:01::,"building activity, construction",False
+see%2:39:00::,to look at something in order to check it,True
+front%1:15:03::,the forward part of sth,True
+do%2:41:01::,to perform unspecified or unknown actions,True
+mind%2:32:00::,to look after,False
+eye%1:08:00::,with the number or type of eyes stated,False
+sad%3:00:00::,revealing sorrow or unhappiness,True
+hurt%2:37:00::,emotionally upset or distressed,False
+dream%1:09:01::,something good that you hope you will have or achieve in the future,False
+night%1:28:00::,the period between the end of the afternoon and going to bed,False
+corner%1:15:02::,"(gen) the part of something square, rectangular or cuboid where two or three edges meet",True
+wet%3:00:01::,covered or soaked with urine,False
+bottom%1:15:00::,in the furthest part,False
+eye%1:08:00::,part of the body that you see with,True
+smile%1:10:00::,with a smile,False
+dark%5:00:00:brunet:00,lacking in light,False
+start%2:30:01::,"to begin one's/its course through a process or action, to begin doing sth or happening",True
+low%5:00:00:soft:04,not very loud,True
+break%2:30:02::,"to interrupt, create a gap (in)",True
+uncomfortable%3:00:01::,causing one to feel ill at ease mentally,True
+renewed%5:00:00:revived:00,starting again with extra strength ,False
+alert%3:00:00::,lively and responsive,False
+bill%1:10:01::,a document showing what you owe for something,True
+hate%2:37:00::,used to apologise or show regret for sth that you are about to say or do,False
+deal%1:10:00::,a sale or transaction,True
+have%2:32:00::,to be forced to do sth by external factors,True
+sell_out%2:40:00::,to part with sth in return for payment; have sth available for sale,True
+share%1:21:00::,one of the equal parts in the ownership of a company that people can buy,False
+do%2:41:02::,to perform a particular activity or task,True
+proud%3:00:00::,worried about losing the respect of others and one's own dignity,False
+know%2:31:01::,to have met or be acquainted with or understand (sb),False
+district%1:15:00::,"an administrative sector within a municipality, a region, a state or a country",True
+presidential%3:01:00::,relating to a president,True
+candidate%1:18:01::,one of the people competing in an election,True
+rise%1:11:00::,"to increase in size, number, amount, etc",True
+election%1:04:01::,"an occasion when people vote for sb to represent them in government or in an organization, or the process leading to this",True
+congressional%3:01:00::,pertaining to the US Congress,True
+party%1:14:01::,"a social event, often in sb's home, to which people are invited to celebrate something or to enjoy themselves by eating, drinking, dancing, playing games etc",False
+past%3:00:00::,former,True
+popular%5:00:00:democratic:00,of or relating to the people,True
+vote%1:09:00::,an indication of choice,False
+simple%5:00:00:easy:01,"easy to understand, do, use etc",True
+theory%1:09:01::,the body of ideas or principles in a given field,True
+explanation%1:10:00::,"a description, analysis, or statement that accounts for sth (ranging from objective to self-justificatory)",True
+republican%3:01:01::,relating to the system of government in a republic,False
+state%1:14:01::,"the political structures of a country, a country's government",True
+government%1:14:00::,the system by which a country etc is governed,True
+roll_call%1:04:00::,to make sb/sth move in a particular direction by turning them over and over around a central axis,False
+vote%1:04:00::,an indication of choice,True
+intervention%1:04:00::,situation where sb becomes actively involved in sth so as to try & change things,True
+representative%1:18:01::,characteristic of government by representation in which citizens exercise power through elected officers and representatives ,False
+local%3:00:01::,"specific or relating to a particular area, town or neighbourhood",True
+member%1:18:00::,an organization that is part of a larger organization,False
+hold%2:42:02::,to keep sb as a prisoner,False
+at_large%4:02:00::,"big in size, quantity, or number",False
+incentive%1:16:00::,an inducement or motivation,True
+lean%2:42:01::,slim and healthy-looking,False
+office%1:26:00::,a place that provides a service ,False
+national%3:00:01::,"relating to a country as a whole -- often as opposed to either local/regional, or international",True
+policy%1:09:00::,a plan or principle of action adopted by an organisation or individual,True
+race%1:11:01::,"one of the different groups which humans can be thought of as belonging to, who share particular physical characteristics, especially skin colour, and geographical origins ",False
+likely%3:00:00::,(of a person) like to do or become sth,False
+half-century%1:28:00::,one of two equal parts of something,False
+election%1:04:00::,"an occasion when people vote for sb to represent them in government or in an organization, or the process leading to this",True
+severe%5:00:00:intense:00,extremely serious,True
+overall%5:00:00:gross:00,"(of calculations) including everything, total ",True
+have%2:40:00::,to be forced to do sth by external factors,False
+security%1:26:00::,situation of being safe from danger or harm ,True
+have%2:42:12::,to be able to spend (time); to have (time) available; to be constrained or limited by time,False
+difficult%3:00:00::,"full of problems, unconducive to happiness or success ",False
+defeat%1:11:00::,"in a contest, a struggle, a battle, etc to win against sb/sth",True
+opponent%1:18:02::,"an adversary in a contest, match, fight. or debate",True
+game%1:04:00::,"a structured, essentially non-physical, activity involving one or more people, esp one engaged in for enjoyment or to pass the time",True
+disadvantage%1:07:00::,unfavourable position or circumstance,True
+competitive%3:00:00::,involving a sports competition,True
+power%1:26:00::,"the ability to control other people within a group, organisation, society etc; influence",False
+chamber%1:14:00::,house of parliament,True
+piece%1:06:00::,a single instance of something of a particular type (use as itemiser),True
+corroborate%2:32:00::,"supporting a statement, claim, theory, etc",True
+concern%1:09:00::,"key point, focus of attention",True
+key%5:00:00:important:00,a dominant tonality in a set of notes or piece,False
+have%2:42:00::,to be able to spend (time); to have (time) available; to be constrained or limited by time,False
+rate%1:28:00::,a measured or measurable quantity or frequency against another measure of the same thing or using the same criteria; a comparative total or level,True
+time%1:28:05::,an amount of time that is available for doing something or is occupied by doing something,True
+devote%2:32:00::,"spend a lot of time, energy, resources, etc on sth because one considers it important",True
+office%1:14:01::,a place that provides a service ,False
+exercise%2:34:00::,"to use a right, power etc",True
+constant%5:00:00:invariable:00,"faithful, dependable, invariant",True
+advantage%1:07:00::,"financial benefit, saving, or loophole",False
+regional%5:00:00:territorial:00,of or characteristic of a region,True
+state%1:15:01::,a main administrative region of a country with a federal structure,True
+onerous%5:00:00:heavy:02,"involving a lot of trouble, or requiring a lot of effort",True
+federal_government%1:14:00::,relating to the central government of a federation,True
+tax%1:21:00::,levy or duty on income or goods,False
+progressive%3:00:02::,"modernising, supportive of change; liberal",False
+tax_rate%1:21:00::,levy or duty on income or goods,False
+same%3:00:00::,"sharing the identity of, not separate from, the one(s) in question",True
+government%1:14:00::,the group of people who govern a country or area,True
+federal%5:00:00:national:01,relating to the central government of a federation,True
+state%1:15:01::,"the political structures, government, or representatives of one of the states of a larger country",False
+line%1:09:00::,a border,True
+hold%2:42:00::,"part of a company, owned in the form of shares, bonds etc",False
+go%2:42:06::,"(of prices, rates, etc) accepted as normal at the present time",False
+share%1:04:00::,use or have at the same time as sb else,False
+house%1:14:02::,"a legislative assembly, particularly the House of Commons or Lords in the UK or the House of Representatives in the US",True
+state%1:15:01::,a main administrative region of a country with a federal structure,True
+rational%3:00:00::,based on good reasoning or logic,True
+devastate%2:30:00::,extremely destructive or damaging,True
+screen%1:06:05::,"the surface on which images are displayed on a TV, video, computer, etc.",True
+bulletin_board%1:06:01::,an internal newspaper/magazine for a group's members,False
+bulletin%1:10:00::,an internal newspaper/magazine for a group's members,False
+live%2:42:08::,lead one's life,False
+old%3:00:01::,"that has been in existence or use for a long time; sometimes: showing the ill-effects of time, in need of replacement",True
+heart%1:08:00::,the organ that pumps blood around the body,True
+file_cabinet%1:06:00::,"a set of hard-copy documents, records, information etc that are held on a particular person or topic",False
+open%3:00:01::,(of a computer application) running & available,False
+start%2:30:00::,"to set in progress, to take or be the first step in",True
+time%1:11:00::,an amount of time to spend devoted to a particular person or activity,False
+book%1:06:00::,printed reading matter,True
+shop%1:06:01::,a school subject in which students are taught to work with tools and machinery to make or repair things,False
+cloud%1:19:01::,mass of water droplets in the sky,False
+smoke%1:19:00::,"a white, grey, or black suspension of carbon and other particles that come from a burning object ",True
+daughter%1:18:00::,female offspring,True
+lot%1:23:00::,a plot of land used for a specific purpose,False
+alarm%1:10:00::,warning device which gives off an audible or visual signal,True
+fire%1:11:00::,an electric or gas heater for a room,False
+floor%1:06:01::,the flat surface people and things stand on in a building,False
+level%1:07:01::,a particular height from the ground or in relation to another surface or object,True
+slab%1:06:00::,"a large, thick, flat piece of a hard substance such as stone with a regular shape, usu square or rectangular, esp as a result of cutting",True
+home%1:15:04::,towards the place where one lives,True
+brave%2:42:00::,deal with or face something without showing fear,True
+horrible%5:00:00:alarming:00,"unpleasant, bad ",False
+hard%3:00:06::,difficult to do,True
+corner%1:06:00::,"a place where two or three sides or walls meet, eg of a room, box, garden, field, & the area around this place",True
+old%3:00:02::,advanced in years,True
+position%1:07:01::,the physical way that sb/sth is placed ,True
+feel%2:39:00::,(as copula) to give you a particular feeling,False
+part%1:09:00::,"a distinct aspect, proportion, piece, section, or constituent of sth",True
+old%3:00:01::,having a greater age in relation to another person/animal or to oneself at an earlier time or to an expectation or standard,False
+general_store%1:06:00::,not specialized,False
+move%2:38:03::,to make sb or sth change position from one place to another,True
+mouse%1:05:00::,a small long-tailed rodent,True
+distressed%3:00:04::,"extremely upset, sad or anxious",True
+heart_rate%1:28:00::,the organ that pumps blood around the body,False
+low%3:00:02::,situated towards the bottom of a scale of measurement; not high in value or number,True
+light%1:06:00::,"a device that is a source of brightness, esp electrical",True
+interesting%3:00:00::,making you interested,True
+hard%3:00:06::,"unpleasant, difficult",True
+let%2:41:00::,to rent out a room or property to sb,False
+door%1:06:00::,"a barrier at the entrance of a building, room or vehicle, or on the front of a cupboard, that can be opened and closed",True
+dance%2:38:02::,perform dance steps etc,True
+in_front%4:02:00::,the forward part of sth,True
+drink%2:34:01::,"the consumption of any drink, alcoholic or not",True
+beer%1:13:00::,a yellow or brown alcoholic drink made with malt and hops,True
+new%3:00:00::,"recently made, constructed, developed, planned, designed, invented, conceived etc ",True
+hour%1:28:00::,operating or available a specific number of hours per day,False
+backyard%1:06:00::,positioned towards the rear,False
+get%2:35:03::,"to move to or from a position, place or vehicle",False
+get%2:30:00::,"to move to or from a position, place or vehicle",False
+book%1:06:00::,to make a reservation or registration,False
+change%2:30:01::,to become different,True
+life%1:26:02::,"an individual's lifestyle, state or mode of living",True
+display%2:39:00::,to show a particular emotion or quality,True
+backer%1:18:00::,"a supporter, especially financial",True
+clout%1:07:00::,influence or power,True
+dilemma%1:09:00::,"an uncomfortable situation, properly a choice between two undesirable alternatives",True
+additional%5:00:03:additive:00,"extra, supplementary",True
+electricity%1:19:01::,"the ability to control other people within a group, organisation, society etc; influence",False
+have%2:40:00::,"to arrange to be, or be knowingly or deliberately, in a position where sth is the case",False
+get%2:30:00::,the pt and ptp of get,False
+sink%2:38:07::,past participle of sink ,False
+come_to%2:41:00::,to enter or reach a particular state,True
+save%2:41:00::,redeemed by God ,False
+say%2:32:00::,well-known phrase; aphorism ,False
+swear%2:32:01::,"offensive language, used as a result of anger, surprise, etc",True
+say%2:32:15::,well-known phrase; aphorism ,False
+begin%2:42:00::,start feeling or thinking something,True
+get%2:30:02::,the pt and ptp of get,False
+continue%2:42:01::,continuing to exist or happen,True
+eyebrow%1:08:00::,the line of hair growing above each eye,True
+forehead%1:08:00::,part of face above eyebrows,True
+content%2:37:00::,happy and satisfied,True
+suicide%1:04:00::,the act of killing oneself,True
+relieve%2:37:00::,feeling glad that sth bad has ended or not happened,False
+put%2:35:00::,the skill or act of putting the ball in golf,False
+surly%5:00:00:ill-natured:00,unfriendly and rude,True
+startle%2:38:00::,suddenly frightened or surprised,True
+premonition%1:12:00::,a strong feeling that sth is going to happen,True
+errand%1:04:00::,small job usually involving fetching and carrying,True
+pallor%1:07:00::,paleness,True
+begin%2:30:00::,start feeling or thinking something,True
+have%2:40:00::,used with a past participle to form the (present) perfect tense of verbs,False
+recurrent%5:00:00:continual:00,occurring again or repeatedly ,True
+annoying%5:00:00:disagreeable:00,making someone feel rather angry,True
+talkative%5:00:00:voluble:00,(of a person) tending to talk a lot; loquacious,True
+grievance%1:12:00::,a complaint about or feeling of being treated in an unfair way,False
+make%2:41:00::,the process of making or producing something,False
+become%2:30:00::,change to have a different quality or state,True
+conspirator%1:18:00::,someone taking part in a conspiracy,True
+shrink%2:38:00::,"that is becoming smaller in size, amount, value, etc ",False
+voter%1:18:00::,person who votes or has the right to vote in an election ,True
+candidacy%1:04:00::,the fact that someone is a candidate in an election,True
+voting_booth%1:06:00::,process of casting a vote ,False
+vote%2:41:13::,process of casting a vote ,True
+pork_barrel%1:21:00::,meat from a pig,False
+legislator%1:18:00::,sb who makes laws ,True
+bring_home_the_bacon%2:40:00::,"pork meat treated with smoke or salt, often sold thinly sliced in rashers",False
+respective%5:00:00:individual:00,relating separately to the people or things mentioned previously,True
+making%1:04:00::,the process of making or producing something,True
+increase%2:30:00::,"larger in amount, number, degree, value etc",True
+do%2:36:01::,sb's activities at a particular time or in a particular place,True
+have%2:40:00::,to be forced to do sth by external factors,False
+recent%5:00:00:new:00,not distant in time,True
+bring%2:38:00::,pt and ptp of bring,False
+reelection%1:04:00::,"when sb is re-elected, or an instance of this",True
+make%2:31:13::,the process of making or producing something,False
+discourage%2:32:01::,disheartened,False
+salary%1:21:00::,"a fixed regular payment for employment, usu paid monthly and stated as an annual sum",True
+financial%3:01:00::,involving money or finance,True
+realize%2:31:01::,to achieve or fulfil something that you wanted or expected,False
+hold%2:40:04::,to have sth that can pass from person to person,False
+disproportionate%3:00:00::,not in proportion when compared to sth else,True
+have%2:40:00::,to possess inherently or by virtue of sth conferred,True
+empirical%3:00:00::,based on real experience or scientific experiments rather than on theory,True
+economist%1:18:00::,expert in or teacher of economics,True
+decision%1:04:00::,a conclusion about sthg that is reached as a result of thinking about it,False
+note%2:32:00::,"well-known as a result of a particular quality, achievement, etc",False
+committee%1:14:00::,group of people selected for a specific function from a larger group,True
+senatorial%3:01:00::,relating to or involving a senator or senators,True
+econometric%3:01:00::,"of, using or relating to econometrics",True
+gubernatorial%3:01:00::,of or relating to a governor (especially of an American state),True
+temblor%1:11:00::,an earthquake,True
+shake%2:38:02::,the more or less vigorous movement of or by sth,True
+endless%5:00:00:long:02,having or seeming to have no end,True
+auto%1:06:00::,a car,True
+go_off%2:30:00::,to change to another condition or state ,False
+foot%1:23:00::,"abbreviation of fthe unit of measurement ""foot"" or the plural form ""feet"" in measurements",True
+ruin%2:35:00::,a ruined building is almost compeltely destroyed,True
+fishing%1:04:00::,"the activity of catching fish, for commercial or sporting reasons",True
+refinery%1:06:00::,"a place where substances are refined, especially oil",True
+shake%2:29:00::,the more or less vigorous movement of or by sth,False
+software%1:10:00::,programs used on computers,True
+minimal%3:00:00::,"minimum, as small as possible",True
+mayonnaise%1:13:00::,"a thick spread or dressing made from egg yolks, oil, and vinegar",True
+kitchen%1:06:00::,the space in a building where food preparation takes place; also the set of units that comprise the fittings,True
+sidewalk%1:06:00::,a pavement,True
+eerie%5:00:00:strange:00,strange and frightening,True
+surreal%5:00:00:unreal:02,bizarre; like something from a dream,True
+continue%2:30:10::,continuing to exist or happen,True
+slide%2:38:01::,moving from side to side or up and down while maintaining continuous contact with a surface,True
+get%2:38:00::,the pt and ptp of get,False
+bounce%2:38:02::,robust; healthy,False
+doorway%1:06:00::,an entrance through a door,True
+go%2:38:00::,to move or travel somewhere,True
+stand%2:35:00::,to be/remain upright on one's feet or legs or animal equivalent,True
+unscathed%5:00:00:uninjured:00,"unharmed, suffering no damage",True
+scare%2:37:00::,frightened or worried,False
+try%2:41:00::,pa t and pa p of TRY,False
+get%2:30:00::,"to move to or from a position, place or vehicle",True
+earthworm%1:05:00::,burrowing annelid worm that lives in earth,True
+emerge%2:30:00::,in the early stages of existence or development,False
+nausea%1:26:00::,the feeling that you are going to vomit,True
+sleeping_bag%1:06:00::,"asleep, dormant ",False
+show%2:31:00::,past participle of 'show',False
+return%2:38:00::,the pt and ptp of get,False
+of_course%4:02:00::,used to indicate that something is common knowledge or taken for granted,True
+on_the_spur_of_the_moment%4:02:00::,suddenly without planning,True
+as_a_matter_of_fact%4:02:00::,"in fact; used when adding more details, a comment etc that your listener might find interesting",True
+on_the_way%4:02:00::,while en route to a place,True
+in_return%4:02:00::,as payment or in exchange,True
+get_along_with%2:41:00::,"in the imperative, telling somebody to go away. Synonym for ""scram"".",False
+as_usual%4:02:00::,as usually happens ,True
+out_of_sight%5:00:00:invisible:00,very high or large in amount,False
+at_large%4:02:00::,free and not yet caught,False
+for_example%4:02:00::,for instance,True
+in_front%4:02:00::,a little further forward than you,True
+like_crazy%4:02:00::,a lot ,True
+get_through%2:32:00::,"in the imperative, telling somebody to go away. Synonym for ""scram"".",False
+due%5:00:00:attributable:00,caused by or ascribable to sb/sth,True
+of_course%4:02:00::,as (sth) progressed/progresses,False
+out_of_sight%5:00:00:invisible:00,going to happen soon,False
+of_course%4:02:00::,used to indicate that something is common knowledge or taken for granted,False
+half-century%1:28:00::,thirty minutes past the hour,False
+good_morning%1:10:00::,"completely, very",False
+good%3:00:01::,"completely, very",False
+specify%2:32:00::,"per se, strictly speaking",True
+pay%2:32:00::,"to listen or attend to something that is happening, being said etc",True
+answer%1:04:00::,say no in answer to a question,False
+much%3:00:00::,used to emphasize how large an amount can be,True
+surprise%1:12:00::,used when something is just what could be expected and is not a surprise at all,False
+hour%1:28:00::,after closing time,False
+head%1:08:00::,used to talk about how much sth costs for each person,False
+man%1:18:00::,"without exception, unanimously",False
+sort%1:07:00::,"a bit, what you might describe as; sometimes: almost, not quite as specified",False
+way%1:06:00::,"nearby on the other side of a road, path, corridor etc",False
+corner%1:06:02::,in a difficult situation from which it will be hard to extricate yourself,False
+pass%2:42:00::,while talking about sb/sth else,False
+time%1:28:05::,"sufficiently quickly, early, or soon",False
+good%3:00:01::,"forever, permanently",False
+job%1:04:00::,it's lucky,False
+kind%1:09:00::,to some degree,False
+like%2:37:04::,"very much, very hard, very intensely",False
+come%2:30:13::,used for calling people to eat when food is ready ,False
+know%2:31:01::,emphasising a statement,False
+come%2:30:13::,future,False
+see%2:31:01::,used when showing sb that what you say is true,False
+see%2:39:00::,used when showing sb that what you say is true,False
+time%1:11:00::,a long time,False
+front%1:15:03::,a little further forward than you,False
+spur%1:10:00::,suddenly without planning,False
+moment%1:28:00::,typical or popular at a particular time,False
+get%2:40:00::,"in the imperative, telling somebody to go away. Synonym for ""scram"".",False
+know%2:31:02::,emphasising a statement,False
+thing%1:11:00::,something of a particular kind - used especially in metaphors and similes,False
+way%1:07:01::,used for introducing a reason why it is good to do something a particular way,True
+time%1:28:06::,each separately or on each single occasion,False
+let%2:32:02::,used for offering help,False
+rise%1:11:00::,"increasing in size, number, amount, etc",True
+extent%1:26:00::,inasmuch as,True
+sum%1:09:00::,phrase used to sum up what has been said,True
+time%1:11:00::,an amount of time to spend devoted to a particular person or activity,False
+hell%1:04:01::,very hard or very much - used after a verb for emphasis,True
+way%1:04:01::,"an emphatic way of saying you definitely do not agree, something definitely will not happen, etc",False
+knot%1:25:00::,(of the stomach) tense because of anxiety or fear,True
+lady%1:18:02::,an elderly woman,False
+dog%1:05:00::,greyhound-racing event at which people place bets,False
+come%2:38:04::,future,False
+get%2:35:03::,"in the imperative, telling somebody to go away. Synonym for ""scram"".",False
+air%1:15:00::,"(of a feeling, subject, impression) being generally felt, thought about, talked about etc by many people ",False
+get%2:30:00::,"in the imperative, telling somebody to go away. Synonym for ""scram"".",False
+as_a_matter_of_fact%4:02:00::,a question of something; used to say what something involves or depends on,False
+on_the_way%4:02:00::,"on or near the route someone has to take, therefore convenient",True
